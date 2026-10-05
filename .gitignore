@@ -1,0 +1,42 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 打包产物
+build/
+dist/
+*.exe
+*.spec
+
+# 用户配置与密钥（勿提交）
+.ai_student_config.json
+.env
+*.key
+*.pem
+deepseek_key.txt
+*_key.txt
+
+# 二进制 / 大数据（由程序生成，可重新生成；不提交）
+*.docx
+*.xlsx
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+ai学生_数据仓库/影像/
+ai学生_数据仓库/上传视频/
+ai学生_数据仓库/分析/

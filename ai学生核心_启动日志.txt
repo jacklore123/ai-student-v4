@@ -1,0 +1,6 @@
+[2026-09-27 23:53:07] HERE=C:\Users\15074\AppData\Local\Temp\_MEI000058d02 exe=F:\4.ai学生修炼版\ai学生核心_调试版.exe
+缺少九字内核 ai学生_验证核心.py(应内置在 exe 中或与本程序同目录)
+[2026-09-27 23:53:19] HERE=C:\Users\15074\AppData\Local\Temp\_MEI00002c202 exe=F:\4.ai学生修炼版\ai学生核心.exe
+缺少九字内核 ai学生_验证核心.py(应内置在 exe 中或与本程序同目录)
+[2026-09-27 23:54:11] HERE=C:\Users\15074\AppData\Local\Temp\_MEI00003ffc2 exe=F:\4.ai学生修炼版\ai学生核心.exe
+缺少九字内核 ai学生_验证核心.py(应内置在 exe 中或与本程序同目录)
